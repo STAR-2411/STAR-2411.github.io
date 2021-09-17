@@ -26,19 +26,19 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://STAR-2411.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://STAR-2411.github.io/about/</guid>
       <description>I am a student
-EducationShenZhen University 2019-2022
-Work ExperienceComing soon&amp;hellip;
+Education ShenZhen University 2019-2022
+Hunan University
+ Work ExperienceComing soon&amp;hellip;
 SkillsSurvery research
 Usability testing
 Hugo makes use of a variety of open source projects including:
- https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</description>
+ https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
     </item>
     
     <item>
